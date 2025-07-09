@@ -1,0 +1,15 @@
+x = 5
+if x < 10 :
+    print ("smaller")
+if x > 20:
+    print("bigger")
+print ('finis')
+
+
+x = 5
+if x == 1
+    print ('smaller')
+else:
+    print ('not 10')
+    
+print('finis')

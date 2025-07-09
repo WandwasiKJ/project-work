@@ -1,0 +1,15 @@
+p = 15
+if p > 10:
+    print('the number is greater than 10')
+
+
+age=int(input("what is your age?"))
+if age >= 18:
+    print("you are eligible to vote")
+
+
+x = ("is_logged_in")
+
+print("false")
+
+
